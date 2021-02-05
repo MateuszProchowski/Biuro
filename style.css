@@ -1,0 +1,26 @@
+.grid {
+    display: grid;
+    grid-template-columns: auto auto auto; 
+    margin-left: 20%;
+}
+.nawigacja {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+    margin-left: 10%;
+}
+.ikona1 {
+    color: yellow;
+    font-size: 50px;
+}
+.ikona2 {
+    font-size: 30px;
+}
+.styl {
+    font-family: 'Josefin Slab', serif;
+    color: greenyellow;
+    font-size: 20px; 
+}
+.styl2 {
+    font-family: 'Josefin Slab', serif;
+    color: white;
+}
