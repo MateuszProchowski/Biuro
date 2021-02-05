@@ -31,49 +31,30 @@
   font-family: "Josefin Slab", serif;
   color: white;
 }
-.tlo {
-  background-color: grey;
+.tekst2{
+  font-size: 36px;
 }
-.write {
-  color: rgba(255, 255, 0, 0.5);
-  font-size: 30px;
+.tekst3{
+  font-size: 12px;
 }
-.write2 {
-  color: white;
+.zdjencie{
+  width: 100%;
 }
-.write3 {
-  color: white;
+.ramka {
+    border: black 1px solid;
 }
-.write4 {
-  color: yellow;
+.padding{
+  padding-left: 20px;
 }
-.write5 {
-  color: yellow;
+.tekstilestam {
+  font-size: 16px;
 }
-.write6 {
-  color: rgba(255, 255, 0, 0.5);
-  font-size: 30px;
-}
-.write7 {
-  color: white;
-  font-size: medium;
-}
-.przycisk {
-  width: 140px;
-  border: 10px;
-}
-.kreska {
-  border:1px solid black;
-   height: 100%; 
-   width: 0;
-}
-.flolt{
+.zdjencie2{
+  width: 40%;
+  overflow: hidden;
   float: right;
+  padding: 7px;
 }
-.ok{
- width: 350px;
- height: 250px;
-}
-.gridv2 {
-  grid-column: 2;
+.flolt {
+  float: right;
 }
