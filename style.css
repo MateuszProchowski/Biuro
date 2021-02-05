@@ -1,26 +1,79 @@
 .grid {
-    display: grid;
-    grid-template-columns: auto auto auto; 
-    margin-left: 20%;
+  display: grid;
+  grid-template-columns: auto auto auto;
+  margin-left: 20%;
 }
 .nawigacja {
-    display: grid;
-    grid-template-columns: auto auto auto auto auto;
-    margin-left: 10%;
+  display: grid;
+  grid-template-columns: auto auto auto auto auto;
+  margin-left: 40%;
+  width: 20%;
+  text-align: center;
+  font-family: "Josefin Slab", serif;
+}
+.nawigacja a {
+  font-family: "Josefin Slab", serif;
+  color: yellow;
 }
 .ikona1 {
-    color: yellow;
-    font-size: 50px;
+  color: yellow;
+  font-size: 50px;
 }
 .ikona2 {
-    font-size: 30px;
+  font-size: 30px;
 }
 .styl {
-    font-family: 'Josefin Slab', serif;
-    color: greenyellow;
-    font-size: 20px; 
+  font-family: "Josefin Slab", serif;
+  color: greenyellow;
+  font-size: 20px;
 }
 .styl2 {
-    font-family: 'Josefin Slab', serif;
-    color: white;
+  font-family: "Josefin Slab", serif;
+  color: white;
+}
+.tlo {
+  background-color: grey;
+}
+.write {
+  color: rgba(255, 255, 0, 0.5);
+  font-size: 30px;
+}
+.write2 {
+  color: white;
+}
+.write3 {
+  color: white;
+}
+.write4 {
+  color: yellow;
+}
+.write5 {
+  color: yellow;
+}
+.write6 {
+  color: rgba(255, 255, 0, 0.5);
+  font-size: 30px;
+}
+.write7 {
+  color: white;
+  font-size: medium;
+}
+.przycisk {
+  width: 140px;
+  border: 10px;
+}
+.kreska {
+  border:1px solid black;
+   height: 100%; 
+   width: 0;
+}
+.flolt{
+  float: right;
+}
+.ok{
+ width: 350px;
+ height: 250px;
+}
+.gridv2 {
+  grid-column: 2;
 }
