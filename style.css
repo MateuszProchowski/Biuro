@@ -37,24 +37,25 @@
 .tekst3{
   font-size: 12px;
 }
+.tekst4 {
+  color: greenyellow;
+}
 .zdjencie{
   width: 100%;
 }
 .ramka {
-    border: black 1px solid;
-}
-.padding{
-  padding-left: 20px;
+    border: black 2px solid;
 }
 .tekstilestam {
   font-size: 16px;
 }
 .zdjencie2{
-  width: 40%;
+  width: 50%;
   overflow: hidden;
   float: right;
   padding: 7px;
 }
-.flolt {
-  float: right;
+.zdjencie3 {
+  width: 50%;
+  float: left;
 }
